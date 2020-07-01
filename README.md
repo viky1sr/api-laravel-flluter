@@ -21,6 +21,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Kelompok TI A
+- Viky Muhammad Alif 2022181013
+- Aditiya Diyan 2022181108
+
+## File Fluter
+- ada di dalem file ini name folder (flutter)
+
+![alt text](img_tugas/1.jpg)
+![alt text](img_tugas/2.jpg)
+![alt text](img_tugas/3.jpg)
+![alt text](img_tugas/4.jpg)
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
